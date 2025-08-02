@@ -4,3 +4,6 @@ updated readme   file
 
 # student
 name:jaydeep
+
+# friend 
+karan bhaver
